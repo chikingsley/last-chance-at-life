@@ -15,3 +15,4 @@ data/
 raw_data/
 .env
 .vscode/
+.vscode/settings.json
