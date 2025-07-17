@@ -35,6 +35,6 @@
 
 [x] research optimal audio format for transcription
 [x] move original content to data/raw: - YouTube content - iCloud content - Voice memo content
-[ ] standardize folder structure for all content types - 481 audios over 1 minute
-[ ] create consistent naming convention across all media
-[ ] document file formats and organization schema
+[x] standardize folder structure for all content types - 481 audios over 1 minute
+[x] create consistent naming convention across all media
+[x] document file formats and organization schema
